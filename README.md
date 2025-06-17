@@ -61,7 +61,7 @@
 
 ---
 
-### 📦 Download the Bot File
+ 📦 Download the Bot File
 
 <p align="center">
   <a href="https://github.com/Pkdriller/NEXUS-XMD/archive/refs/heads/main.zip">
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-[![REPORT PROBLEM](https://img.shields.io/badge/REPORT%20PROBLEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254794146821?text=Hello%2C%20I%20want%20to%20report%20a%20problem%20with%20this%20project.)
+
 
 
 ⭐ Follow My GitHub ⭐
