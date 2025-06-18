@@ -45,6 +45,18 @@
 
 
 
+---
+
+## 🗃️ PROJECT ARCHITECTS
+
+<p align="center">
+  <a href="https://github.com/Pkdriller">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pkdriller&show_icons=true&theme=radical">
+  </a>
+</p>
+<div align="center">
+  <img src="https://github.com/Pkdriller/NEXUS-XMD/blob/main/assets/menu.gif?raw=true" width="100%"/>
+</div>
 
 
 
