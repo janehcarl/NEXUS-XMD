@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "nexus~MzcEkZqJ#emU3SFUrSNgn-5n4TsMavSa3cFL7RYxavi3uqmd85EA"
     },  
     
     "STICKER_NAME": {
@@ -35,8 +35,8 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -149,26 +149,26 @@
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
       
     }, 
     
@@ -193,7 +193,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
